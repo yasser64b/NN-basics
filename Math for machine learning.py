@@ -1,3 +1,9 @@
+# See full Toturial at my Youtube Channel(YB TV): https://www.youtube.com/channel/UCvnhhDKv5takEN412dmVW8g/featured
+# GitHab Page:https://github.com/yasser64b/Machine-Learning- 
+#Email: big3del@gmail.com
+
+
+
 import numpy as np
 # Matrix Operations
 A=np.array([[1,2,3],[4,2,7]])
@@ -67,3 +73,5 @@ def cost_fn(a,y):
     return c
 
 cost_fn(10,2)
+
+
